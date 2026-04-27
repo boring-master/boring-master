@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm a freshman in the School of Mathematics at Hunan University. 
+
 
 <!--
 **boring-master/boring-master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
