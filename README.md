@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm a freshman in the School of Mathematics at Hunan University. 
+I'm a sophomore in the School of Mathematics at Hunan University, from Fujian Province, China.
 
-
+I'm currently learning Python.
 <!--
 **boring-master/boring-master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
